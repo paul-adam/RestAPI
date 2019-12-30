@@ -1,8 +1,11 @@
 {
-  "id": 1,
-  "text": "aaa"
-},
-{
-  "id": 2,
-  "text": "bbb"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
